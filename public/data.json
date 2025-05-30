@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Apple Inc.",
+        "founded": 1976,
+        "founders": [
+            "Steve Jobs",
+            "Steve Wozniak",
+            "Ronald Wayne"
+        ],
+        "ceo": "Tim Cook",
+        "headquarters": "Cupertino, California, USA",
+        "products": [
+            "iPhone",
+            "Mac",
+            "iPad",
+            "Apple Watch",
+            "iOS",
+            "macOS"
+        ],
+        "employees": 161000,
+        "market_cap": "2.8T USD",
+        "website": "https://www.apple.com"
+    },
+    {
+        "name": "Microsoft Corporation",
+        "founded": 1975,
+        "founders": [
+            "Bill Gates",
+            "Paul Allen"
+        ],
+        "ceo": "Satya Nadella",
+        "headquarters": "Redmond, Washington, USA",
+        "products": [
+            "Windows",
+            "Office",
+            "Azure",
+            "Xbox",
+            "Surface"
+        ],
+        "employees": 221000,
+        "market_cap": "3.0T USD",
+        "website": "https://www.microsoft.com"
+    },
+    {
+        "name": "Alphabet Inc.",
+        "founded": 2015,
+        "founders": [
+            "Larry Page",
+            "Sergey Brin"
+        ],
+        "ceo": "Sundar Pichai",
+        "headquarters": "Mountain View, California, USA",
+        "products": [
+            "Google Search",
+            "Android",
+            "YouTube",
+            "Gmail",
+            "Google Cloud"
+        ],
+        "employees": 182000,
+        "market_cap": "2.1T USD",
+        "website": "https://abc.xyz"
+    },
+    {
+        "name": "Amazon.com, Inc.",
+        "founded": 1994,
+        "founders": [
+            "Jeff Bezos"
+        ],
+        "ceo": "Andy Jassy",
+        "headquarters": "Seattle, Washington, USA",
+        "products": [
+            "Amazon.com",
+            "AWS",
+            "Alexa",
+            "Kindle",
+            "Prime Video"
+        ],
+        "employees": 1520000,
+        "market_cap": "1.9T USD",
+        "website": "https://www.amazon.com"
+    },
+    {
+        "name": "Meta Platforms, Inc.",
+        "founded": 2004,
+        "founders": [
+            "Mark Zuckerberg",
+            "Eduardo Saverin",
+            "Andrew McCollum",
+            "Dustin Moskovitz",
+            "Chris Hughes"
+        ],
+        "ceo": "Mark Zuckerberg",
+        "headquarters": "Menlo Park, California, USA",
+        "products": [
+            "Facebook",
+            "Instagram",
+            "WhatsApp",
+            "Oculus",
+            "Threads"
+        ],
+        "employees": 67000,
+        "market_cap": "1.2T USD",
+        "website": "https://www.meta.com"
+    },
+    {
+        "name": "NVIDIA Corporation",
+        "founded": 1993,
+        "founders": [
+            "Jensen Huang",
+            "Chris Malachowsky",
+            "Curtis Priem"
+        ],
+        "ceo": "Jensen Huang",
+        "headquarters": "Santa Clara, California, USA",
+        "products": [
+            "GeForce",
+            "RTX",
+            "CUDA",
+            "DGX",
+            "NVIDIA AI"
+        ],
+        "employees": 26000,
+        "market_cap": "2.3T USD",
+        "website": "https://www.nvidia.com"
+    }
+]
