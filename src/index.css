@@ -14,4 +14,31 @@ nav a.active {
 }
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
-@custom-variant dark (&:where([data-theme=black], [data-theme=black] *));
+/* @custom-variant dark (&:where([data-theme=black], [data-theme=black] *));
+ */
+
+[contenteditable=true]:empty:before {
+  content: attr(placeholder);
+  pointer-events: none;
+  display: block; 
+  font-style: italic;
+   color:grey;
+}
+
+::-moz-selection {
+  color: none;
+  background: #b3aaeb94;
+}
+
+::selection {
+  color: none;
+  background: #b3aaeb94;
+}
+
+.inline-code, code {
+  font-family: Courier New, monospace;
+  background-color: #59E46EFF;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
